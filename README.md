@@ -33,10 +33,6 @@ app.delete("/api/v1/tasks/:id", deleteTask);
 // Completing a task
 app.put("/api/v1/tasks/:id/complete", completeTask);
 
-
-
-
-
 ```
 
 ## Note:
